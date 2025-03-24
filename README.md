@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=akshaykamble.AkshayKamble-work)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
 
 # 💫 About Me:
 🔭 I’m currently working on automation java with selenium<br>🤝 I’m looking for opportunity where i can leverage my skills<br>🌱 I’m currently learning Rest Assured API<br>💬 Ask me about<br>⚡ Fun fact
