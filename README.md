@@ -1,4 +1,6 @@
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue)
+![Hits](https://hits.sh/github.com/AkshayKamble-work/AkshayKamble-work.svg)
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on automation java with selenium<br>🤝 I’m looking for opportunity where i can leverage my skills<br>🌱 I’m currently learning Rest Assured API<br>💬 Ask me about<br>⚡ Fun fact
