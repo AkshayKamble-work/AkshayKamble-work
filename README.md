@@ -3,7 +3,9 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on automation java with selenium<br>🤝 I’m looking for opportunity where i can leverage my skills<br>🌱 I’m currently learning Rest Assured API<br>💬 Ask me about<br>⚡ Fun fact
+🔭 
+👋 Hi, I'm Akshay !<br>
+I'm a Software Tester with a strong focus on Automation, API Testing, and Functional Testing. I enjoy ensuring software quality through well-structured test automation frameworks and efficient testing strategies.<br>
 
 
 ## 🌐 Socials:
