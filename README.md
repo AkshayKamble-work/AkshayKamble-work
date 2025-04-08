@@ -2,10 +2,10 @@
 
 
 
-# 💫 About Me:
-🔭 
-👋 Hi, I'm Akshay !<br>
-I'm a Software Tester with a strong focus on Automation, API Testing, and Functional Testing. I enjoy ensuring software quality through well-structured test automation frameworks and efficient testing strategies.<br>
+# Akshay Kamble
+🔍 Senior Quality Analyst | Automation & Manual Testing Expert
+
+🚀 With 4 years of experience in quality assurance, I specialize in ensuring seamless software performance by leveraging both manual and automated testing strategies. My passion for delivering high-quality products drives me to continually improve processes and tools that enhance overall efficiency..<br>
 
 
 ## 🌐 Socials:
@@ -17,6 +17,10 @@ I'm a Software Tester with a strong focus on Automation, API Testing, and Functi
 ![](https://github-readme-stats.vercel.app/api?username=AkshayKamble-work&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AkshayKamble-work&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKamble-work&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshayKamble-work&theme=dracula)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkshayKamble-work&icon=0&color=0)](https://visitcount.itsvg.in)
