@@ -1,7 +1,6 @@
 ![Hits](https://hits.sh/github.com/AkshayKamble-work/AkshayKamble-work.svg)
 
 
-
 # Akshay Kamble
 🔍 Senior Quality Analyst | Automation & Manual Testing Expert
 
@@ -19,10 +18,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayKamble-work&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AkshayKamble-work&theme=dracula)
+![YourUsername's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayKamble-work&theme=github-compact)
+
 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AkshayKamble-work&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💡 Daily Motivation
+“Success is not final, failure is not fatal: It is the courage to continue that counts.”
+— Winston Churchill
