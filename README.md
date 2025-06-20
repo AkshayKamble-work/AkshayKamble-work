@@ -2,7 +2,7 @@
 
 
 # Akshay Kamble
-🔍 Senior Quality Analyst | Automation & Manual Testing Expert
+🔍 Consultant | Automation & Manual Testing Expert
 
 🚀 With 4 years of experience in quality assurance, I specialize in ensuring seamless software performance by leveraging both manual and automated testing strategies. My passion for delivering high-quality products drives me to continually improve processes and tools that enhance overall efficiency..<br>
 
